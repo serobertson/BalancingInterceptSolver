@@ -1,4 +1,3 @@
-setwd("~/Dropbox (Personal)/Setting the intercept -- Issa, Sarah")
 
 simulate_balance_intercept<-function(c, prevalence, Ldistn){
 set.seed(123)
